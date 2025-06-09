@@ -1,4 +1,7 @@
-# bda-modulo-1-evaluacion-final-cbueno82
+![Estado](https://img.shields.io/badge/status-en%20progreso-yellow)
+
+Este proyecto se encuentra en desarrollo y contiene funcionalidades incompletas. Cualquier sugerencia es bienvenida =) 
+
 ## Manejando un inventario
 Con este proyecto se busca gestionar un inventario rudimentario. Se pueden añadir productos, eliminarlos,
 actualizarlos, realizar compras, etc. 
